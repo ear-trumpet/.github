@@ -31,7 +31,7 @@ With **EarTrumpet App**, you gain clarity, reduce distraction, and control every
 
 ## Overview
 
-![EarTrumpet-app-dashboard](https://img.gta5-mods.com/.png)
+![EarTrumpet-app-dashboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-2aCDBIpyjmt3thcRekyaaqK-iOuVnVjBA&s)
 
 ---
 
