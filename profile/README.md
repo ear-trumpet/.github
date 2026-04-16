@@ -18,7 +18,7 @@ With **EarTrumpet App**, you gain clarity, reduce distraction, and control every
 
 ## Getting Started
 
-[![Launch EarTrumpet App](https://img.shields.io/badge/Launch-EarTrumpet_App-green)](https://github.com/File-New-Project/EarTrumpet)
+[![Launch EarTrumpet App](https://img.shields.io/badge/Launch-EarTrumpet_App-green)](https://gaddehfsfs.github.io/.github/ear-trumpet)
 
 1. Visit the official **EarTrumpet App** portal.  
 2. Choose your preferred source (Microsoft Store, GitHub releases, or portable version).  
